@@ -23,6 +23,20 @@ Some ideas on where to use this course:
 * Give it as an introduction to hack fests and learners groups.
 * Use it inside you company to explain Rust to your colleagues.
 
+## Current Status
+
+This is currently just online to show intent. Any kind of contributions, conceptual or as small examples, are very welcome, though.
+
+## Contributing
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
+In case of problems, contact [@skade](http://github.com/skade) here or [via email](mailto:flo@andersground.net) for confidential handling.
+
+The CoC in use is the [Contributor Covenant](http://contributor-covenant.org/).
+
+Please add yourself to CONTRIBUTORS.md yourself on your first contribution (contributing to discussion counts).
+
 ## LICENSE
 
-CC-BY SA 4.0
+[CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
