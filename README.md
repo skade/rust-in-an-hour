@@ -27,6 +27,8 @@ Some ideas on where to use this course:
 
 This is currently just online to show intent. Any kind of contributions, conceptual or as small examples, are very welcome, though.
 
+Please be aware that the goal of this project is to reach a state where things can only be replaced, not added, as that would exceed the course time.
+
 ## Contributing
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
