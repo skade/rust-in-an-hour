@@ -2,6 +2,10 @@
 
 ## Context
 
+This is a short article you should have read and understood so that you can can repeat in front of an audience easily. It also forms the frame for the presentation itself. It is not intended for publishing.
+
+## Rust
+
 Rust is a systems level programming language initially developed by Graydon Hoare and later adopted by Mozilla.
 
 Its goals are to be:
